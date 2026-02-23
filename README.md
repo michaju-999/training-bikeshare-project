@@ -20,3 +20,6 @@ Notes:
   handles that case with a check before trying to access those columns.
 - A display_raw_data() function was added as an extra feature to let users 
   page through 5 rows of raw data at a time.
+
+In addition to the above, the below is part of a seperate commit on a branch. specifically, we are providing some narrative explination of the project. In this case,
+the project utilizes a data foundation of appoximately 90,000 lines of data across 3 CSV files. 
